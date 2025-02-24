@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm H.K.Bhanuka Shamen Rathnasir</h1>
 <h3 align="center">Fullstack Developer, UX/UI Designer, Graphic Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamenrathnasiri&label=Profile%20views&color=0e75b6&style=flat" alt="shamenrathnasiri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamenrathnasiri" alt="shamenrathnasiri" /></a> </p>
-
 - 🌱 I’m currently learning **React, Python, Figma, Graphic Design**
 
 - 📫 How to reach me **shamenrathnasiri@gmail.com**
