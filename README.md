@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm H.K.Bhanuka Shamen Rathnasiri</h1>
 <h3 align="center">Fullstack Developer, UX/UI Designer, Graphic Designer</h3>
 
-🎯 Currently Learning: **Angular, React, Next.js, Express.js, Python (Flask), Figma & Graphic Design**
+🎯 Currently Learning: **Angular, React, Express.js, Python (Flask), Figma & Graphic Design**
 
 🔧 Building full-stack apps and designing clean, user-friendly interfaces
 
@@ -20,12 +20,12 @@
 <table>
   <tr>
     <td valign="top" style="padding: 10px 40px;">
-      <strong>🌐 Frontend</strong><br><br>
+      <br><br>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
       </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+      <a href="https://angular.io/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
       </a>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-left: 10px;">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
@@ -85,13 +85,6 @@
     </td>
   </tr>
 </table>
-
-
-</div>
-
-
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamenrathnasiri&show_icons=true&locale=en" alt="shamenrathnasiri" /></p>
 
