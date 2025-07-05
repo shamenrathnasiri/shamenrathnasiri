@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm H.K.Bhanuka Shamen Rathnasiri</h1>
 <h3 align="center">Fullstack Developer, UX/UI Designer, Graphic Designer</h3>
 
-🎯 Currently Learning: **Angular, React, Express.js, Python (Flask), Figma & Graphic Design**
+🎯 Currently Learning: **Angular,Next JS, React, Express.js, Python (Flask), Figma & Graphic Design**
 
 🔧 Building full-stack apps and designing clean, user-friendly interfaces
 
