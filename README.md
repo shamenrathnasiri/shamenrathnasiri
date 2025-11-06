@@ -80,10 +80,7 @@ class TechSpecialist:
 
 ### LEARNING STACK [IN_PROGRESS]
 
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### TOOLS & PLATFORMS
@@ -97,16 +94,16 @@ class TechSpecialist:
 ## [SYS]: PERFORMANCE_METRICS 📊
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janitha479&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark&icon_color=79ff97&title_color=79ff97&text_color=79ff97&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janitha479&layout=compact&hide_border=true&theme=chartreuse-dark&title_color=79ff97&text_color=79ff97&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shamenrathnasiri&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark&icon_color=79ff97&title_color=79ff97&text_color=79ff97&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamenrathnasiri&layout=compact&hide_border=true&theme=chartreuse-dark&title_color=79ff97&text_color=79ff97&bg_color=0d1117"/>
 </div>
 
 <div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=janitha479&hide_border=true&theme=chartreuse-dark&background=0d1117&stroke=79ff97&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamenrathnasiri&hide_border=true&theme=chartreuse-dark&background=0d1117&stroke=79ff97&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" />
 </div>
 
 <div align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=janitha479&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamenrathnasiri&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ## [SYS]: PROJECT_DATABASE 💾
@@ -123,7 +120,7 @@ class TechSpecialist:
 
 | Project                               | Tech Stack                | Status         | Description                                        |
 | ------------------------------------- | ------------------------- | -------------- | -------------------------------------------------- |
-| 🤟 **Sign Language Detection**        | Python, OpenCV, MediaPipe | ✅ Complete    | Real-time sign language recognition system         |
+| 🤟 **Inhouse-patient-management-system-for-private-hospitals**        | Python, OpenCV, MediaPipe | ✅ Complete    | Real-time sign language recognition system         |
 | 🌐 **Network Infrastructure Config**  | Cisco, OSPF, NAT          | ✅ Complete    | Enterprise network setup with security protocols   |
 | 👋 **Hand Gesture Recognition**       | OpenCV, MediaPipe, Python | ✅ Complete    | Computer vision system for gesture control         |
 | 🔒 **Face Detection Privacy System**  | Python, OpenCV, CNN       | ✅ Complete    | Privacy-focused facial recognition with encryption |
