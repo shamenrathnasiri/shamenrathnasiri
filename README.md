@@ -128,32 +128,12 @@ class TechSpecialist:
 | 🎓 **hotel-website**            | Java Script       | ✅ Complete    | Full-stack hotel website           |
 | 🚀 **Train-ticket-booking-system**       | Next JS        | 🔄 In Progress | managing train ticket booking           |
 
-```python
-class ProjectStats:
-    def __init__(self):
-        self.specializations = {
-            "🛡️ cybersecurity": ["Network Security", "Infrastructure Hardening", "Vulnerability Assessment"],
-            "☁️ cloud_ops": ["AWS Deployment", "Container Orchestration", "System Automation"],
-            "🤖 ai_ml": ["Computer Vision", "Predictive Analytics", "Neural Networks"],
-            "🌐 full_stack": ["Web Applications", "API Development", "Database Design"],
-            "🔧 sysadmin": ["Linux Administration", "Server Management", "Performance Optimization"]
-        }
-
-        self.impact = {
-            "systems_secured": "50+",
-            "servers_managed": "25+",
-            "applications_deployed": "15+",
-            "uptime_maintained": "99.9%"
-        }
-```
-
 ## [SYS]: MISSION_OBJECTIVES 🎯
 
 ```bash
 $ cat current_missions.txt
 
 [ACTIVE] 🔐 Mastering Cybersecurity Frameworks & Ethical Hacking
-[ACTIVE] ☁️ AWS Solutions Architect Certification Path
 [ACTIVE] 🤖 Deep Learning for Computer Vision Applications
 [ACTIVE] 🌐 Advanced Full Stack Development (MEAN/MERN)
 [QUEUE]  🐧 Red Hat Certified System Administrator (RHCSA)
@@ -173,18 +153,6 @@ $ cat current_missions.txt
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-## [SYS]: LEARNING_LOG 📚
-
-<div align="center">  
-
-**Currently Consuming Knowledge:**
-
-- 📖 "The Phoenix Project" - DevOps & IT Operations
-- 🔐 "Black Hat Python" - Ethical Hacking with Python
-- ☁️ AWS Solutions Architect Study Guide
-- 🧠 "Hands-On Machine Learning" - Scikit-Learn & TensorFlow
-
-</div>
 
 ## [SYS]: ACCESS_PORTS 🌐
 
@@ -196,10 +164,9 @@ $ cat current_missions.txt
 ╚═══════════════════════════════════════╝
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janitha-ranasinghe)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janitha479)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janithaofficial456@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanuka-shamen-859183288/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamenrathnasiri?tab=overview&from=2024-10-01&to=2024-10-31)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamenrathnasiri@gmail.com)
 
 ```ascii
 ║ STATUS: CONNECTION_ESTABLISHED ✅     ║
@@ -218,16 +185,15 @@ $ cat current_missions.txt
 ║                    REAL-TIME METRICS                         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=janitha479&color=brightgreen&style=for-the-badge&label=PROFILE+SCANS)
-![Followers](https://img.shields.io/github/followers/janitha479?color=brightgreen&style=for-the-badge&label=NETWORK+NODES)
-![GitHub Stars](https://img.shields.io/github/stars/janitha479?color=brightgreen&style=for-the-badge&label=REPO+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=shamenrathnasiri&color=brightgreen&style=for-the-badge&label=PROFILE+SCANS)
+![Followers](https://img.shields.io/github/followers/shamenrathnasiri?color=brightgreen&style=for-the-badge&label=NETWORK+NODES)
+![GitHub Stars](https://img.shields.io/github/stars/shamenrathnasiri?color=brightgreen&style=for-the-badge&label=REPO+STARS)
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║  SYSTEM ADMIN: JANITHA.RANASINGHE                             ║
+║  SYSTEM ADMIN: BHANUKA.SHAMEN.RATHNASIRI                             ║
 ║  STATUS: ACTIVE & READY FOR COLLABORATION                     ║
-║  LAST UPDATED: 2025.06.08                                     ║
+║  LAST UPDATED: 2025.11.06                                     ║
 ║  SESSION_END: ./logout                                        ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -240,7 +206,7 @@ $ cat current_missions.txt
 
 <div align="center">  
   
-**💡 "Code is poetry written in logic, infrastructure is the stage where it performs."**  
+**💡 "Code writes the story; infrastructure builds the stage that makes it perform."**  
   
 *⭐ Don't forget to star repositories that spark your interest!* 
 
