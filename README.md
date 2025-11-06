@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Janitha Ranasinghe
+# Hi there! 👋 I'm Bhanuka Shamen Rathnasiri
 
 <div align="center">  
 
@@ -52,30 +52,6 @@ class TechSpecialist:
 
 ## [SYS]: ARSENAL_OVERVIEW 🚀
 
-<details>
-<summary><b>🔧 CORE WEAPONS & INFRASTRUCTURE</b></summary>
-<br>
-
-### SYSTEM ADMINISTRATION
-
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-### CLOUD & INFRASTRUCTURE
-
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### SECURITY & NETWORKING
-
-![Kali](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-
-</details>
 
 <details>
 <summary><b>💻 DEVELOPMENT STACK</b></summary>
