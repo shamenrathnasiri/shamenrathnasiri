@@ -120,13 +120,13 @@ class TechSpecialist:
 
 | Project                               | Tech Stack                | Status         | Description                                        |
 | ------------------------------------- | ------------------------- | -------------- | -------------------------------------------------- |
-| 🤟 **Inhouse-patient-management-system-for-private-hospitals**        | Python, OpenCV, MediaPipe | ✅ Complete    | Real-time sign language recognition system         |
-| 🌐 **Network Infrastructure Config**  | Cisco, OSPF, NAT          | ✅ Complete    | Enterprise network setup with security protocols   |
-| 👋 **Hand Gesture Recognition**       | OpenCV, MediaPipe, Python | ✅ Complete    | Computer vision system for gesture control         |
-| 🔒 **Face Detection Privacy System**  | Python, OpenCV, CNN       | ✅ Complete    | Privacy-focused facial recognition with encryption |
-| 📈 **Student Performance Prediction** | Python, ML, Pandas        | ✅ Complete    | Machine learning model for academic predictions    |
-| 🎓 **E-Learning Platform**            | Laravel, MySQL, PHP       | ✅ Complete    | Full-stack educational management system           |
-| 🚀 **AWS Infrastructure Setup**       | AWS, Docker, CI/CD        | 🔄 In Progress | Scalable cloud infrastructure deployment           |
+| 🤟 **Inhouse-patient-management-system-for-private-hospitals**        | Python, React, MySQL | ✅ Complete    | Patient management system         |
+| 🌐 **Farm-Management-System**  | Python, React, MySQL         | ✅ Complete    | Farmer can manage Expense, Crop and Stock Using this   |
+| 👋 **API-expense-tracker**       | Node JS, Prisma | ✅ Complete    |  a small REST API for tracking expenses         |
+| 🔒 **Note-Master**  | Angular, Flask       | ✅ Complete    | focus TO-DO and Crud Operations |
+| 📈 **Cafe Shop websiten** | React, MySQL, Flask        | ✅ Complete    | Fullstack project for coffe shop    |
+| 🎓 **hotel-website**            | Java Script       | ✅ Complete    | Full-stack hotel website           |
+| 🚀 **Train-ticket-booking-system**       | Next JS        | 🔄 In Progress | managing train ticket booking           |
 
 ```python
 class ProjectStats:
