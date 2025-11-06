@@ -12,7 +12,7 @@
  ░▒█▄▄█░▀▀▀░▀▀▀░░▀▀▀░▀▀▀░▀▀▀░▀░░▀░▀░░▀░▀▀▀░▀░▀▀
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&duration=3000&pause=1000&color=0CF731&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;FULL+STACK+DEVELOPER+DETECTED;SYSADMIN+PROTOCOLS+ACTIVE;IT+UNDERGRADUATE+%7C;CYBERSECURITY+%26+NETWORKING+SPECIALIST;SYSTEM+BREACH+SUCCESSFUL+✅)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&duration=3000&pause=1000&color=0CF731&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;FULL+STACK+DEVELOPER+DETECTED;SYSADMIN+PROTOCOLS+ACTIVE;COMPUTER SCIENCE+UNDERGRADUATE+%7C;CYBERSECURITY+%26+NETWORKING+SPECIALIST;SYSTEM+BREACH+SUCCESSFUL+✅)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" href="https://github.com/SP-XD" alt="CoDiNg RocKs" width="60%"/><br>
 
