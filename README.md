@@ -68,7 +68,14 @@ class TechSpecialist:
 
 ### FRAMEWORKS & LIBRARIES
 
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next%20JS-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) 
+![Node JS](https://img.shields.io/badge/Node%20JS-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
 ### LEARNING STACK [IN_PROGRESS]
