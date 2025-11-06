@@ -2,7 +2,7 @@
 
 <div align="center">  
 
-# ⚡ SYSTEM_INIT: JANITHA.RANASINGHE ⚡
+# ⚡ SYSTEM_INIT: BHANUKA.SHAMEN.RATHNASIRI ⚡
 
 ```ascii
  ░▒█▀▀▄░█▀▀░█░░░░█▀▀░█░░░█▀▀░█▀▀▄░█▀▀▄░█▀▀░█▀▀▄
@@ -21,39 +21,30 @@
 ```python
 class TechSpecialist:
     def __init__(self):
-        self.name = "A.A.D.J.S. Ranasinghe"
-        self.alias = "Janitha"
+        self.name = "H.K.B.S.Rathnasiri"
+        self.alias = "Bhanuka"
         self.status = "ONLINE 🟢"
-        self.roles = ["IT Undergraduate", "System Administrator", "Full Stack Developer"]
+        self.roles = ["Computer Science Undergraduate", "System Administrator", "Full Stack Developer"]
         self.mission = "Building robust systems & securing digital infrastructure"
 
         self.education = {
-            "current": "BSc in Information Technology",
-            "gpa": "3.5/4.0",
-            "institution": "SIBA Campus Pallekale",
+            "current": "BSc in Computer Science",
+            "institution": "Trincomalee Campus, Eastern University",
             "status": "Final Year"
         }
-
-        self.certifications = {
-            "completed": ["Python for Beginners [2024]"],
-            "in_progress": [
-                "Cybersecurity Essentials",
-                "CCNA: Introduction to Networks",
-                "Python Programming Advanced"
-            ]
         }
 
         self.current_focus = [
             "🔐 Cybersecurity & Network Security",
-            "☁️ Cloud Infrastructure (AWS)",
+            "🌐 Full Stack Development",
             "🤖 AI/ML Applications",
-            "🌐 Full Stack Development"
+            "🎨 Graphic and UI/UX Design"
         ]
 
     def get_stats(self):
         return {
-            "experience": "3+ years",
-            "projects_completed": "15+",
+            "experience": "1+ years",
+            "projects_completed": "16+",
             "technologies_mastered": "20+",
             "coffee_consumed": "∞"
         }
